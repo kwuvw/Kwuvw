@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Beginner developer. I’m learning programming and building projects for practice and my portfolio.  
+I'm beginner developer. I’m learning programming and building projects for practice and my portfolio.  
 Interested in application development and user interfaces.
 
 ### Skills
