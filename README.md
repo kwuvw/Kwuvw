@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**kwuvw/Kwuvw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Beginner developer. I’m learning programming and building projects for practice and my portfolio.  
+Interested in application development and user interfaces.
 
-Here are some ideas to get you started:
+### Skills
+- C# / .NET  
+- WPF (XAML)
+- OOP basics
+- Java (basic)
+- Git / GitHub
+- Basic HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About this profile
+Here you can find my learning and practice projects:  
+console apps, OOP tasks, and simple WPF interfaces.
+
+### Goal
+Improve my skills, gain more practical experience, and move towards commercial development.
