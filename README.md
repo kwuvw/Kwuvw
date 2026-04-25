@@ -6,8 +6,9 @@ Interested in application development and user interfaces.
 ### Skills
 - C# / .NET  
 - WPF (XAML)
-- OOP basics
-- Java (basic)
+- OOP
+- Java 
+- Quarkus
 - Git / GitHub
 - Basic HTML / CSS
 
