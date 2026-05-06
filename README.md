@@ -1,23 +1,42 @@
-## Hi there 👋
+# Beginner Java Developer
 
-I'm beginner developer. I’m learning programming and building projects for practice and my portfolio.  
-Interested in application development and user interfaces.
+I am a beginner developer focused on backend and application development using the Java ecosystem.
+I am building practical projects to strengthen my understanding of core programming concepts and modern frameworks.
 
-### Skills
-- C# / .NET  
-- WPF (XAML)
-- OOP
+---
 
-- Java 
-- Quarkus
-- Spring
+## Tech Stack
 
-- Git / GitHub
-- Basic HTML / CSS
+**Primary**
 
-### About this profile
-Here you can find my learning and practice projects:  
-console apps, OOP tasks, and simple WPF interfaces.
+* Java
+* Spring Framework (Spring Boot)
+* Quarkus
 
-### Goal
-Improve my skills, gain more practical experience, and move towards commercial development.
+**Secondary**
+
+* C# / .NET
+* WPF (XAML)
+
+**Fundamentals**
+
+* Object-Oriented Programming (OOP)
+* Git / GitHub
+* HTML / CSS (basic)
+
+---
+
+
+## Goals
+
+* Deepen knowledge of Java and backend development
+* Learn how to design scalable and maintainable applications
+* Gain practical experience with real-world projects
+* Transition into commercial software development
+
+---
+
+
+## Contact
+
+You are welcome to explore my projects and reach out if needed.
