@@ -7,8 +7,11 @@ Interested in application development and user interfaces.
 - C# / .NET  
 - WPF (XAML)
 - OOP
+
 - Java 
 - Quarkus
+- Spring
+
 - Git / GitHub
 - Basic HTML / CSS
 
