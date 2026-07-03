@@ -1,4 +1,4 @@
-# Hi, I'm Konstantin 👋
+# Hi, I'm Konstantin 
 
 I'm a beginner software developer passionate about backend and full-stack web development. I enjoy building practical projects, exploring modern technologies, and using AI-assisted development tools to speed up development while understanding how the code works under the hood.
 
