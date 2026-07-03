@@ -1,42 +1,38 @@
-# Beginner Java Developer
+Hi, I'm Konstantin 
 
-I am a beginner developer focused on backend and application development using the Java ecosystem.
-I am building practical projects to strengthen my understanding of core programming concepts and modern frameworks.
+I'm a beginner software developer passionate about backend and full-stack web development. I enjoy building practical projects, exploring modern technologies, and using AI-assisted development tools to speed up development while understanding how the code works under the hood.
 
----
+Tech Stack
+Backend
+Java
+Spring Boot
+Quarkus
+Python
+FastAPI
+Frontend
+Next.js
+React
+TypeScript
+HTML / CSS
+Tailwind CSS
+Databases
+PostgreSQL
+Tools
+Git / GitHub
+Docker (basic)
+Playwright
+AI-assisted development (OpenCode, ChatGPT)
+Currently Learning
+Backend architecture
+REST API design
+Database modeling
+Clean Code & software design principles
+Full-stack application development
+Goals
+Build production-quality web applications
+Improve my backend engineering skills
+Contribute to real-world projects
+Start my career as a software developer
+Contact
 
-## Tech Stack
-
-**Primary**
-
-* Java
-* Spring Framework (Spring Boot)
-* Quarkus
-
-**Secondary**
-
-* C# / .NET
-* WPF (XAML)
-
-**Fundamentals**
-
-* Object-Oriented Programming (OOP)
-* Git / GitHub
-* HTML / CSS (basic)
-
----
-
-
-## Goals
-
-* Deepen knowledge of Java and backend development
-* Learn how to design scalable and maintainable applications
-* Gain practical experience with real-world projects
-* Transition into commercial software development
-
----
-
-
-## Contact
-
-You are welcome to explore my projects and reach out if needed.
+Feel free to explore my repositories. Feedback and suggestions are always welcome!
